@@ -6,7 +6,7 @@
   "publisher": "Wesley Barbosa",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/Wesley216/lavender-theme"
   },
   "engines": {
     "vscode": "^1.75.0"
