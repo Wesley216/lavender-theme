@@ -1,0 +1,27 @@
+{
+  "name": "lavender-theme",
+  "displayName": "Lavender theme",
+  "description": "This is lavender theme!",
+  "version": "1.0.0",
+  "publisher": "Wesley Barbosa",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "engines": {
+    "vscode": "^1.75.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": ["theme", "dark theme"],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Lavender",
+        "uiTheme": "vs-dark",
+        "path": "./themes/lavander-theme-color-theme.json"
+      }
+    ]
+  }
+}
