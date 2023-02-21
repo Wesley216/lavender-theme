@@ -1,4 +1,4 @@
-# lavender-theme README
+# murasaki-theme README
 
 ## Working with Markdown
 
