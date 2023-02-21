@@ -1,12 +1,12 @@
 {
-  "name": "lavender-theme",
-  "displayName": "Lavender theme",
+  "name": "murasaki-theme",
+  "displayName": "Murasaki theme",
   "description": "This is lavender theme!",
   "version": "1.0.0",
-  "publisher": "Wesley Barbosa",
+  "publisher": "WesleyBarbosa",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Wesley216/lavender-theme"
+    "url": "https://github.com/Wesley216/murasaki-theme"
   },
   "engines": {
     "vscode": "^1.75.0"
@@ -18,9 +18,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "Lavender",
+        "label": "Murasaki",
         "uiTheme": "vs-dark",
-        "path": "./themes/lavander-theme-color-theme.json"
+        "path": "./themes/murasaki-theme.json"
       }
     ]
   }
