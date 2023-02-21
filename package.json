@@ -2,7 +2,7 @@
   "name": "murasaki-theme",
   "displayName": "Murasaki theme",
   "description": "This is lavender theme!",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "publisher": "WesleyBarbosa",
   "repository": {
     "type": "git",
@@ -14,7 +14,10 @@
   "categories": [
     "Themes"
   ],
-  "keywords": ["theme", "dark theme"],
+  "keywords": [
+    "theme",
+    "dark theme"
+  ],
   "contributes": {
     "themes": [
       {
