@@ -2,7 +2,7 @@
     "name": "Murasaki theme",
     "type": "dark",
     "colors": {
-        "focusBorder": "#a051fd",
+        "focusBorder": "#a051fdc9",
         "foreground": "#edecee",
         "errorForeground": "#ff6767",
         "widget.shadow": "#0f0f0f",
@@ -41,7 +41,7 @@
         "editorLineNumber.foreground": "#a2a1a3d3",
         "editorIndentGuide.activeBackground": "#6d6d6d",
         "editorCursor.foreground": "#a277ff",
-        "editor.selectionBackground": "#3d375e7f",
+        "editor.selectionBackground": "#3d375ec1",
         "editor.selectionHighlightBackground": "#3d375e7f",
         "editor.inactiveSelectionBackground": "#3d375e7f",
         "editor.wordHighlightBackground": "#3d375e7f",
@@ -94,20 +94,16 @@
         "activityBarBadge.background": "#5560fff5",
         "activityBarBadge.foreground": "#ffffff",
         "activityBar.activeBorder": "#a277ff",
-
         "badge.foreground": "#111111",
         "badge.background": "#a277ff",
-
         "sideBar.background": "#110f18",
         "sideBar.foreground": "#cdccce",
         "sideBar.border": "#000000",
         "sideBarTitle.foreground": "#ececec",
         "sideBarSectionHeader.background": "#15141b",
         "sideBarSectionHeader.foreground": "#adacae",
-        
         "progressBar.background": "#7b51f0",
-        
-        "scrollbar.shadow": "#adadad",
+        "scrollbar.shadow": "#000000",
         "scrollbarSlider.activeBackground": "#3d375e",
         "scrollbarSlider.background": "#a394f033",
         "scrollbarSlider.hoverBackground": "#a394f033",
@@ -174,7 +170,6 @@
         {
             "name": "Accent2",
             "scope": [
-                "string",
                 "markup.inserted",
                 "markup.raw",
                 "constant",
@@ -183,7 +178,6 @@
                 "variable.other.quoted.double",
                 "markup.inline.raw.string.markdown",
                 "entity.other.attribute-name.id.css",
-                "meta.jsx.children",
                 "JSXNested"
             ],
             "settings": {
@@ -303,6 +297,24 @@
             ],
             "settings": {
                 "foreground": "#82e2ff"
+            }
+        },
+        {
+            "name": "Accent33",
+            "scope": [
+                "meta.jsx.children"
+            ],
+            "settings": {
+                "foreground": "#ebebeb"
+            }
+        },
+        {
+            "name": "Accent34",
+            "scope": [
+                "string"
+            ],
+            "settings": {
+                "foreground": "#c3f797"
             }
         },
         {
